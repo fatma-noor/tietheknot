@@ -34,6 +34,21 @@ body {
   color: #e05297;
 }
 
+h3 {
+  font-family: 'Luminari', fantasy , serif;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Kite one', cursive;
+  font-weight: bolder;
+}
+
+h1 {
+  color: #583d72;
+  font-family: 'Texturina', serif;
+}
+
 .topnav .icon {
   display: none;
 }
