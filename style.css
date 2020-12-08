@@ -58,3 +58,8 @@ h1 {
   display: block;
   text-align: left;
 }
+
+h1 {
+  color: #b83b5e;
+  font-family: 'Texturina', serif;
+}
